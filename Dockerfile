@@ -1,4 +1,5 @@
-FROM debian:stretch
+# FROM debian:stretch
+FROM coolprop/debian
 
 
 ARG NB_USER="jovyan"
